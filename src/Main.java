@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
         SlovakLang slovo = new SlovakLang();
         System.out.println(slovo.formatText("macka ma pesa"));
+        System.out.println(slovo.formatText("macka ma pesa!"));
 
         Math cislo = new Math();
         System.out.println(cislo.reverse(589));
