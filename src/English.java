@@ -1,6 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
+/* @author: Miriam Vargockova */
 public class English extends Subject {
 
     public String transalte (String animal){
