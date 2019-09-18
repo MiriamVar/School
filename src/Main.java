@@ -1,17 +1,26 @@
 public class Main {
     public static void main(String[] args) {
-        SlovakLang slovo = new SlovakLang();
-        System.out.println(slovo.formatText("macka ma pesa"));
-        System.out.println(slovo.formatText("macka ma pesa!"));
+//        SlovakLang slovo = new SlovakLang();
+//        System.out.println(slovo.formatText("macka ma pesa"));
+//        System.out.println(slovo.formatText("macka ma pesa!"));
+//
+//        Math cislo = new Math();
+//        System.out.println(cislo.reverse(589));
+//        System.out.println(cislo.reverse(650));
+//        System.out.println(cislo.reverse(65096));
+//
+//        English zviera  = new English();
+//        System.out.println(zviera.transalte("pes"));
+//        System.out.println(zviera.transalte("hah"));
 
-        Math cislo = new Math();
-        System.out.println(cislo.reverse(589));
-        System.out.println(cislo.reverse(650));
-        System.out.println(cislo.reverse(65096));
-
-        English zviera  = new English();
-        System.out.println(zviera.transalte("pes"));
-        System.out.println(zviera.transalte("hah"));
+        Math cislo2 = new Math();
+        System.out.println(cislo2.primeNum(11));
+        System.out.println(cislo2.primeNum(16));
+        System.out.println(cislo2.primeNum(17));
+        System.out.println(cislo2.primeNum(18));
+        System.out.println(cislo2.primeNum(21));
+        System.out.println(cislo2.primeNum(991));
+        System.out.println(cislo2.primeNum(121));
 
     }
 }
