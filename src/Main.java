@@ -13,14 +13,27 @@ public class Main {
 //        System.out.println(zviera.transalte("pes"));
 //        System.out.println(zviera.transalte("hah"));
 
-        Math cislo2 = new Math();
-        System.out.println(cislo2.primeNum(11));
-        System.out.println(cislo2.primeNum(16));
-        System.out.println(cislo2.primeNum(17));
-        System.out.println(cislo2.primeNum(18));
-        System.out.println(cislo2.primeNum(21));
-        System.out.println(cislo2.primeNum(991));
-        System.out.println(cislo2.primeNum(121));
+//        Math cislo2 = new Math();
+//        System.out.println(cislo2.primeNum(11));
+//        System.out.println(cislo2.primeNum(16));
+//        System.out.println(cislo2.primeNum(17));
+//        System.out.println(cislo2.primeNum(18));
+//        System.out.println(cislo2.primeNum(21));
+//        System.out.println(cislo2.primeNum(991));
+//        System.out.println(cislo2.primeNum(121));
+
+//        Other cena = new Other();
+//        System.out.println(cena.goodFormatPrice("5.2"));
+//        System.out.println(cena.goodFormatPrice("89564"));
+//        System.out.println(cena.goodFormatPrice("    "));
+
+        SlovakLang slovko = new SlovakLang();
+      //  slovko.codingCharacter('e');
+      //  slovko.codingCharacter('P');
+      //  slovko.codingCharacter('s');
+       // slovko.changingWord("Pes");
+        slovko.changingWord("auto");
+
 
     }
 }
