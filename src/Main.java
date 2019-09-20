@@ -32,7 +32,13 @@ public class Main {
       //  slovko.codingCharacter('P');
       //  slovko.codingCharacter('s');
        // slovko.changingWord("Pes");
-        slovko.changingWord("auto");
+//        slovko.changingWord("auto");
+//        slovko.changingWord("tom");
+//        slovko.changingWord("mima");
+//        slovko.changingWord("K");
+//        slovko.encryptNumTwo('E');
+        slovko.anotherEncrypt('Z');
+        slovko.anotherEncrypt('e');
 
 
     }
